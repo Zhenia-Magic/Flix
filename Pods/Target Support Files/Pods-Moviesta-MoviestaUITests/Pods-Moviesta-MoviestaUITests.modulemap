@@ -1,0 +1,6 @@
+framework module Pods_Moviesta_MoviestaUITests {
+  umbrella header "Pods-Moviesta-MoviestaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
